@@ -1,2 +1,2 @@
 # SWDV-660-Automated-Brad_Burkett
-SWDV660 week5 homework, Automated
+Connect to the Jenkins server and build it for an automated job
